@@ -16,11 +16,11 @@
     "analyse": "custom-elements-manifest analyze --litelement --outdir dist --globs \"src/**/*.js\""
   },
   "dependencies": {
-    "lit": "^2.2.7"
+    "lit": "2.2.8"
   },
   "devDependencies": {
-    "@custom-elements-manifest/analyzer": "^0.6.3",
-    "api-viewer-element": "^1.0.0-pre.3",
-    "vite": "^3.0.0"
+    "@custom-elements-manifest/analyzer": "0.6.3",
+    "api-viewer-element": "1.0.0-pre.3",
+    "vite": "3.0.2"
   }
 }
